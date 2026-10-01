@@ -11,6 +11,4 @@ Senior Cloud & Platform Engineer at **Backbase** in Almere, Netherlands. I desig
 - DevSecOps: SAST, DAST and IaC scanning as policy-as-code gates, Entra ID and RBAC
 - Reliability: SLO-based dashboards and alerting
 
-Open to senior, staff and principal platform roles in the Netherlands.
-
 <sub>Most of my work lives in private client repositories. What's public here are demos and learning material.</sub>
